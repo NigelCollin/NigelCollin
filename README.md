@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nigel Collin</h1>
 <h3 align="center">I am still learning, but I am excited to share my work with others.</h3>
 
+<img align="right" width=350 img src="https://github.com/NigelCollin/NigelCollin/assets/144836630/be4ae7e8-eba8-4d7f-b6e6-e6d1cf7b88ae">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigelcollin&label=Profile%20views&color=0e75b6&style=flat" alt="nigelcollin" /> </p>
 
 - 🌱 I’m currently Learning **Python**
